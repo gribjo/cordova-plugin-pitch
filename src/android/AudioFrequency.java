@@ -67,9 +67,9 @@ public class AudioFrequency extends CordovaPlugin
     }
 
     public void onReset() {
-        if (!receiver.isInterrupted()) {
+        /*if (!receiver.isInterrupted()) {
             receiver.interrupt();
-        }
+        }*/
     }
 
     /**
