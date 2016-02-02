@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 BandPad. All rights reserved.
 //
 
-#import "ToneReceiver.h"
+#import <ToneReceiver.h>
 #import <AVFoundation/AVFoundation.h>
 #import <Accelerate/Accelerate.h>
 
