@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-//#import "MyObject-C-Interface.h"
+#import "MyObject-C-Interface.h"
 
 @interface ToneReceiver : NSObject
 
